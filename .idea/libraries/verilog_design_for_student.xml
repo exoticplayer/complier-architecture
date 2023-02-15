@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="verilog-design-for-student">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab1/verilog-design-for-student.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
